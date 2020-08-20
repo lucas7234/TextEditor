@@ -1,1 +1,1 @@
-document.open('https://www.github.com','', 'noopener=true')
+document.open('https://www.github.com')
